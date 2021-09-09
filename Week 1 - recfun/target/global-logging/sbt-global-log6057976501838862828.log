@@ -1,0 +1,11 @@
+[debug] > Exec(all {file:/D:/users/user1/Documents/ProgramEngineer/NSO/Itai%20Bashan/recfun/}recfun/products {file:/D:/users/user1/Documents/ProgramEngineer/NSO/Itai%20Bashan/recfun/}recfun/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to D:\users\user1\Documents\ProgramEngineer\NSO\Itai Bashan\recfun\target\scala-3.0.0\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to D:\users\user1\Documents\ProgramEngineer\NSO\Itai Bashan\recfun\target\scala-3.0.0\test-classes ...
+[info] done compiling
+[success] Total time: 8 s, completed 13:55:23 18/08/2021
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
